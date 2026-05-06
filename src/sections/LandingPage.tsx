@@ -214,7 +214,7 @@ export default function LandingPage({ onEnter }: LandingPageProps) {
                 }}
               >
                 <img
-                  src="/avatar-cartoon.png"
+                  src="/personal-website/avatar-cartoon.png"
                   alt="Tianlun's cartoon avatar"
                   className="w-full h-auto"
                   style={{
