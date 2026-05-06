@@ -132,7 +132,7 @@ export default function Sidebar({ activePage, onPageChange, onReturnHome }: Side
       {/* Bottom: Cartoon avatar mini */}
       <div className="mt-auto pt-4">
         <img
-          src="/avatar-cartoon.png"
+          src="/personal-website/avatar-cartoon.png"
           alt="Tianlun"
           style={{
             width: '36px',
