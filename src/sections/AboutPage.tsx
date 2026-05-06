@@ -14,7 +14,7 @@ export default function AboutPage() {
       {/* Portrait */}
       <div className="mt-10">
         <img
-          src="/avatar-cartoon.png"
+          src={`${import.meta.env.BASE_URL}avatar-cartoon.png`}
           alt="Tianlun Chen"
           className="w-full"
           style={{
