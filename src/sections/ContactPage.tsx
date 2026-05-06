@@ -92,7 +92,7 @@ export default function ContactPage() {
       {/* Avatar */}
       <div className="mt-12">
         <img
-          src="/avatar-cartoon.png"
+          src={`${import.meta.env.BASE_URL}avatar-cartoon.png`}
           alt="Tianlun"
           style={{
             width: '64px',
